@@ -1,4 +1,4 @@
-# OIBSIP December Intern - 2023
+# OIBSIP Web Developmet December Intern - 2023
 
 ## Task - 1 - Landing Page:
 
