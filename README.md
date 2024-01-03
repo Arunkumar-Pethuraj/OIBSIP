@@ -16,4 +16,15 @@ https://github.com/Arunkumar-Pethuraj/OIBSIP/assets/153414462/bba71873-49df-4427
 
 https://github.com/Arunkumar-Pethuraj/OIBSIP/assets/153414462/6297f600-09bc-4f26-aab7-ae2697aa2e9d
 
+<br/>
+
+## Task - 3 - Temperature Converter :
+
+![Screenshot (469)](https://github.com/Arunkumar-Pethuraj/OIBSIP/assets/153414462/8a75dab4-689c-42f2-a852-979ffb0dffb5)
+
+
+https://github.com/Arunkumar-Pethuraj/OIBSIP/assets/153414462/3d57e3fd-8f91-4536-9447-af1d84b8affa
+
+
+
 
